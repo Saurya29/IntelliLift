@@ -28,7 +28,7 @@ export const USER_PROGRAMS = [
       daily_calories: "1,600 calories",
       macros: { protein: "30%", carbs: "40%", fats: "30%" },
       meal_examples: [
-        { meal: "Breakfast", example: "Oatmeal with almond milk, berries, and chia seeds" },
+        { meal: "Breakfast", example: "Oatmeal, fruits, and chia seeds" },
         { meal: "Lunch", example: "Grilled chicken salad with olive oil dressing" },
         { meal: "Dinner", example: "Baked salmon with quinoa and roasted vegetables" },
         { meal: "Snacks", example: "Apple with almond butter, dairy-free yogurt with nuts" },
