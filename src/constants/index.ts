@@ -17,7 +17,7 @@ export const USER_PROGRAMS = [
       weekly_schedule: [
         { day: "Monday", focus: "Full Body Cardio", duration: "30 min" },
         { day: "Wednesday", focus: "Core & Lower Body", duration: "30 min" },
-        { day: "Friday", focus: "HIIT Training", duration: "25 min" },
+        { day: "Friday", focus: "HIIT Training", duration: "35 min" },
         { day: "Saturday", focus: "Active Recovery", duration: "40 min" },
       ],
       description:
